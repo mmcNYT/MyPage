@@ -6,7 +6,7 @@ enableRobotsTXT = true
 
 [params]
   description = '一个用于学习 Hugo、Web 开发与部署的最小技术笔记站。'
-  author = '示例作者'
+  author = 'mmcNYT'
 
 [taxonomies]
   tag = 'tags'
